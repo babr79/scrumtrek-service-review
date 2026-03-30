@@ -26,18 +26,37 @@
 | **Консультирование ТРО** | Методологическая поддержка трансформационного офиса | [→](трансформация/консультирование-тро.md) |
 | **Фасилитация** | Ретроспективы и PI-планирование для десятков команд | [→](трансформация/фасилитация.md) |
 | **Тимбилдинг** | Agile-воркшопы для кросс-функциональной работы | [→](трансформация/тимбилдинг.md) |
+### 2. Корпоративные тренинги (адаптируемые программы)
 
-### 2. Scrum (карьерный путь SM → Agile Coach → BAC)
+Специализированные программы для корпоративных групп (10–25 человек), адаптируемые под конкретную компанию.
+
+| Услуга | Описание | Подробнее |
+|---|---|---|
+| **Lean Agile Procurement** | Закупки и подрядчики в Agile — тендеры, контракты, работа с подрядчиками | [→](трансформация/lean-agile-procurement.md) |
+| **Agility in Finance** | Адаптация бюджетирования, учёта затрат и контрактования под Agile | [→](трансформация/agility-in-finance.md) |
+| **Management 3.0** | Современный менеджмент: мотивация, делегирование, структура команд | [→](трансформация/management-3.0.md) |
+| **Лидерство и выгорание** | Энергия лидера и команды, профилактика выгорания | [→](трансформация/лидерство-и-выгорание.md) |
+| **Управление изменениями** | Нейронаука изменений, работа с сопротивлением | [→](трансформация/управление-изменениями.md) |
+| **IT и Digital Reward** | Система вознаграждения в IT и Digital | [→](scrum/it-digital-reward.md) |
+
+**Формат корпоративных программ:** Короткий созвон → бриф с экспертом → адаптация → проведение на ваших кейсах → обратная связь. Онлайн / офлайн / гибрид, RU / EN.
+
+### 3. Scrum (карьерный путь SM → Agile Coach → BAC)
 
 Обучение по трёхуровневой карьерной лестнице. Авторизованный провайдер ICAgile, Scaled Agile Inc., Scrum Alliance, LeSS Company B.V.
+
+**Уровень 0 — Основы Agile:**
+
+| Курс | Формат | Сертификат | Подробнее |
+|---|---|---|---|
+| Базовый Agile (интенсив / вечерний) | 3 дня или 4 недели | ICAgile ICP | [→](scrum/базовый-agile.md) |
 
 **Уровень 1★ — Scrum Master:**
 
 | Курс | Формат | Цена | Подробнее |
 |---|---|---|---|
 | Сертифицированный Скрам-мастер (ST-CSM) | 2 дня, 16ч | от 39 000 ₽ | [→](scrum/сертифицированный-скрам-мастер.md) |
-| SAFe® Scrum Master (SSM) | 2 дня | 67 000 ₽ | [→](scrum/safe-scrum-master.md) |
-| Scrum Master OKademy (школа) | 6 недель, 24ч | от 87 000 ₽ | [→](scrum/scrum-master-okademy.md) |
+| SAFe® Scrum Master (SSM) | 2 дня | 67 000 ₽ | [→](scrum/safe-scrum-master.md) || Scrum Master OKademy (школа) | 6 недель, 24ч | от 87 000 ₽ | [→](scrum/scrum-master-okademy.md) |
 | Certified Agile Team Facilitator | 2 дня, 16ч | от 44 000 ₽ | [→](scrum/agile-team-facilitator.md) |
 | Краткий курс выживания SM | 4 недели | от 42 000 ₽ | [→](scrum/краткий-курс-выживания-sm.md) |
 | Продвинутый SM SAFe® (SASM) | 2 дня | 67 000 ₽ | [→](scrum/продвинутый-sm-safe.md) |
@@ -47,18 +66,30 @@
 | Курс | Формат | Цена | Подробнее |
 |---|---|---|---|
 | Agile Coach University 2.0 | 4 месяца, 104ч | 320 000 ₽ | [→](scrum/agile-coach-university.md) |
-| Certified Agile Coaching (ICAgile ACC) | — | от 85 000 ₽ | [→](scrum/certified-agile-coaching.md) |
-| Certified LeSS Basics | — | от 42 000 ₽ | [→](scrum/certified-less-basics.md) |
+| Certified Agile Coaching (ICAgile ACC) | 3 дня | от 85 000 ₽ | [→](scrum/certified-agile-coaching.md) |
+| Certified LeSS Basics | 1 день | от 42 000 ₽ | [→](scrum/certified-less-basics.md) |
+| Certified Lean Change Agent | 2 дня | — | [→](scrum/lean-change-agent.md) |
 
 **Уровень 3★★★ — Business Agility Coach:**
 
 | Курс | Формат | Цена | Подробнее |
 |---|---|---|---|
-| Enterprise Agile Coaching | — | от 82 000 ₽ | [→](scrum/enterprise-agile-coaching.md) |
-| Запуск OKR | — | от 36 000 ₽ | [→](scrum/запуск-okr.md) |
+| Enterprise Agile Coaching (ICP-ENT) | 3 дня | от 82 000 ₽ | [→](scrum/enterprise-agile-coaching.md) |
+| Leading SAFe® (Certified SAFe® Agilist) | 2 дня | — | [→](scrum/leading-safe.md) |
+| Запуск OKR | 1 день | от 36 000 ₽ | [→](scrum/запуск-okr.md) |
 | OKR Master | — | от 52 000 ₽ | [→](scrum/okr-master.md) |
 
-### 3. Kanban (путь Delivery Manager)
+### 4. SAFe-роли (полный набор)
+
+| Курс | Роль | Сертификат | Подробнее |
+|---|---|---|---|
+| SAFe® Scrum Master | SM в SAFe | SSM | [→](scrum/safe-scrum-master.md) |
+| Продвинутый SM SAFe® | Опытный SM | SASM | [→](scrum/продвинутый-sm-safe.md) |
+| SAFe® PO/PM | Product Owner / Manager | POPM | [→](scrum/safe-po-pm.md) |
+| Продвинутый PM SAFe® | Опытный PM | — | [→](scrum/продвинутый-pm-safe.md) |
+| SAFe® Release Train Engineer | RTE | RTE | [→](scrum/safe-rte.md) |
+| Leading SAFe® | Лидер трансформации | SA | [→](scrum/leading-safe.md) |
+### 5. Kanban (путь Delivery Manager)
 
 Обучение управлению потоком задач и прогнозированию сроков на основе данных.
 
@@ -67,7 +98,7 @@
 | Основы Канбан-систем (KSD) | 2 дня | от 45 000 ₽ | [→](kanban/основы-канбан-систем.md) |
 | Масштабирование Канбан-систем (KMP II) | 2 дня | от 57 000 ₽ | [→](kanban/масштабирование-канбан-систем.md) |
 
-### 4. Продуктовое управление (путь Product Owner / Product Manager)
+### 6. Продуктовое управление (путь Product Owner / Product Manager)
 
 Подготовка владельцев и менеджеров продуктов. Бренд **ProdSTa** (ScrumTrek). Единственный аккредитованный провайдер ICP-PDM в РФ. Обучено 4 355 человек.
 
@@ -77,7 +108,24 @@
 | Менеджер продукта 2.0: AI-мир | 3 дня | ICP-PDM | [→](продуктовое-управление/менеджер-продукта-2.0.md) |
 | Школа владельца продукта OKademy | 5 недель | — | [→](продуктовое-управление/школа-владельца-продукта.md) |
 | Университет владельцев продукта 2.0 | 6 месяцев | ICP-APO + ICP-PDM + M3.0 + ScrumTrek | [→](продуктовое-управление/университет-владельцев-продукта.md) |
+| Оргдизайн продуктовой компании | 2 дня | — | [→](продуктовое-управление/оргдизайн-продуктовой-компании.md) |
 
+### 7. Проектное управление (путь Project Manager)
+
+Управление проектами в Agile- и гибридном формате.
+
+| Курс | Формат | Сертификат | Подробнее |
+|---|---|---|---|
+| Agile Project Management | 3 дня | ICP-APM, подготовка к PMI-ACP | [→](scrum/agile-project-management.md) |
+| Проджект менеджер 2.0: Эпоха ИИ | 8 недель | Диплом гос. образца + ScrumTrek | [→](scrum/проджект-менеджер-2.0.md) |
+
+## Пути обучения (с карты тренингов)
+
+**Путь Agile-специалиста:** Базовый Agile → Scrum Master → CATF → Agile Coach University → Certified Agile Coaching
+
+**Путь Product Manager-а:** Базовый Agile → Владелец продукта 2.0 → Менеджер продукта 2.0 → Университет владельцев продукта → Оргдизайн
+
+**Путь Лидера крупной организации:** Management 3.0 → OKR → LeSS Basics или Leading SAFe → Enterprise Agile Coaching
 ## Ключевые тренеры
 
 - **Алексей Воронин** — эксперт Large-Scale Scrum, куратор ACU и Product University
@@ -109,6 +157,14 @@
 ## Международные аккредитации
 
 ScrumTrek — аккредитованный провайдер: ICAgile, Lean Kanban University, Scaled Agile Inc., Scrum Alliance, Lean Agile Procurement Alliance, Lean Change Management Association, Management 3.0, LeSS Company B.V.
+
+## Форматы обучения
+
+- **Очно** — в офисе компании или арендованной площадке
+- **Онлайн-интенсив** — синхронный формат, 2–3 дня
+- **Онлайн-курс** — асинхронный + живой тренер, 4–8 недель
+- **Длительные программы** — 2–6 месяцев с модульной структурой
+- **Корпоративные программы** — любой тренинг адаптируется для групп 10–25 человек
 
 ## Зарплаты выпускников (Москва, данные с сайта)
 
