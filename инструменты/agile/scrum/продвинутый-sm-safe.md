@@ -1,4 +1,4 @@
-# DEPRECATED TRAINING (убит, или приостановлен)
+# DEPRECATED TRAINING (только корп формат)
 
 # Продвинутый Scrum Master SAFe® (SASM)
 

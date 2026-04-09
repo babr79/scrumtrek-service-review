@@ -1,4 +1,4 @@
-# DEPRECATED TRAINING (убит, или приостановлен)
+# DEPRECATED TRAINING (только корп формат)
 
 # Продвинутый Product Manager SAFe®
 
