@@ -1,3 +1,4 @@
+
 # Leading SAFe® — Certified SAFe® Agilist
 
 ← [Назад к направлению](обзор-agile.md) · [Все услуги](каталог-услуг.md)

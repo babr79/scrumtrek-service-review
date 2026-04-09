@@ -1,3 +1,5 @@
+# DEPRECATED TRAINING (убит, или приостановлен)
+
 # SAFe® Product Owner / Product Manager (POPM)
 
 ← [Назад к направлению](обзор-agile.md) · [Все услуги](каталог-услуг.md)

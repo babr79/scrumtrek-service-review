@@ -1,3 +1,5 @@
+# DEPRECATED TRAINING (убит, или приостановлен)
+
 # SAFe® Release Train Engineer (RTE)
 
 ← [Назад к направлению](обзор-agile.md) · [Все услуги](каталог-услуг.md)
